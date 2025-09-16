@@ -21,7 +21,7 @@ export default function PrivacyPage() {
             <section>
               <h2 className="text-2xl font-bold text-gray-900 mb-4">Introduction</h2>
               <p className="text-gray-700 leading-relaxed">
-                Messiah First for America PAC ("we," "us," or "our") is committed to protecting your privacy.
+                Messiah First for America PAC (&quot;we,&quot; &quot;us,&quot; or &quot;our&quot;) is committed to protecting your privacy.
                 This Privacy Policy explains how we collect, use, disclose, and safeguard your information when
                 you visit our website or interact with our services.
               </p>
