@@ -33,21 +33,21 @@ export default function StatementOfFaithPage() {
           <div className="bg-blue-50 rounded-lg p-6">
             <h3 className="text-xl font-bold text-blue-900 mb-4">Biblical Authority</h3>
             <p className="text-gray-700">
-              We believe the Bible is the inspired, infallible Word of God and our final authority
+              We believe the Bible is the inspired, infallible Word of G-d and our final authority
               for faith and practice, including how we engage in the political process.
             </p>
           </div>
           <div className="bg-blue-50 rounded-lg p-6">
-            <h3 className="text-xl font-bold text-blue-900 mb-4">Yeshua the Messiah</h3>
+            <h3 className="text-xl font-bold text-blue-900 mb-4">Yeshua the Jewish Messiah</h3>
             <p className="text-gray-700">
-              We boldly proclaim that Yeshua (Jesus) is the Messiah, the Son of God,
-              and that His lordship extends over every area of life, including government.
+              We boldly proclaim that Yeshua (Jesus) is the Jewish Messiah, the Son of G-d,
+              and that His L-rdship extends over every area of life, including government.
             </p>
           </div>
           <div className="bg-blue-50 rounded-lg p-6">
             <h3 className="text-xl font-bold text-blue-900 mb-4">Israel&apos;s Covenant</h3>
             <p className="text-gray-700">
-              We affirm God&apos;s eternal covenant with Israel and the Jewish people,
+              We affirm G-d&apos;s eternal covenant with Israel and the Jewish people,
               supporting Israel as both a biblical mandate and wise foreign policy.
             </p>
           </div>
@@ -55,7 +55,7 @@ export default function StatementOfFaithPage() {
             <h3 className="text-xl font-bold text-blue-900 mb-4">Biblical Governance</h3>
             <p className="text-gray-700">
               We believe biblical principles should inform public policy, promoting justice,
-              righteousness, and the flourishing of all people according to God&apos;s design.
+              righteousness, and the flourishing of all people according to G-d&apos;s design.
             </p>
           </div>
         </div>
@@ -70,13 +70,13 @@ export default function StatementOfFaithPage() {
               <h4 className="font-semibold text-blue-800 mb-2">Government&apos;s Role</h4>
               <blockquote className="text-gray-600 italic text-sm">
                 &quot;Let everyone be subject to the governing authorities, for there is no authority
-                except that which God has established.&quot; - Romans 13:1
+                except that which G-d has established.&quot; - Romans 13:1
               </blockquote>
             </div>
             <div className="bg-gray-50 p-4 rounded-lg">
               <h4 className="font-semibold text-blue-800 mb-2">Blessing Nations</h4>
               <blockquote className="text-gray-600 italic text-sm">
-                &quot;Blessed is the nation whose God is the Lord, the people he chose
+                &quot;Blessed is the nation whose G-d is the L-rd, the people he chose
                 for his inheritance.&quot; - Psalm 33:12
               </blockquote>
             </div>
@@ -100,7 +100,7 @@ export default function StatementOfFaithPage() {
           <h3 className="text-2xl font-bold mb-4">Join Our Biblical Mission</h3>
           <p className="text-blue-100 mb-6">
             If you share these biblical convictions, we invite you to join our mission to
-            advance God&apos;s kingdom principles in American politics.
+            advance G-d&apos;s kingdom principles in American politics.
           </p>
           <div className="flex gap-4 justify-center flex-col sm:flex-row">
             <Link

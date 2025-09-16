@@ -5,7 +5,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## Project Overview
 
 This is the official website for **Messiah First for America PAC**, a SuperPAC with the mission to:
-- Proclaim the Name of Yeshua the Messiah in America
+- Proclaim the Name of Yeshua the Jewish Messiah in America
 - Educate the public on Messianic (Christian) policy in America
 - Fundraise to support politicians who promote these policies
 

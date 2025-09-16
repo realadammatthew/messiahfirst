@@ -4,7 +4,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Endorsed Politicians - Messiah First for America PAC',
-  description: 'Candidates we support who share our biblical values and commitment to advancing Gods kingdom in America.',
+  description: 'Candidates we support who share our biblical values and commitment to advancing G-ds kingdom in America.',
 };
 
 export default function PoliticiansPage() {
@@ -18,7 +18,7 @@ export default function PoliticiansPage() {
           <p className="text-blue-600 font-semibold mb-2">ENDORSED CANDIDATES</p>
           <h1 className="text-4xl font-bold text-blue-900 mb-4">Politicians We Support</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Candidates who share our biblical values and demonstrate the character and courage to govern according to God&apos;s principles.
+            Candidates who share our biblical values and demonstrate the character and courage to govern according to G-d&apos;s principles.
           </p>
         </div>
 
@@ -31,7 +31,7 @@ export default function PoliticiansPage() {
               <ul className="space-y-2 text-gray-600">
                 <li className="flex items-start">
                   <span className="text-blue-500 mr-2">✓</span>
-                  Personal relationship with Yeshua as Lord and Savior
+                  Personal relationship with Yeshua as L-rd and Savior
                 </li>
                 <li className="flex items-start">
                   <span className="text-blue-500 mr-2">✓</span>

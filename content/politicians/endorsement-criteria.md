@@ -1,6 +1,6 @@
 ---
 title: "Candidate Endorsement Criteria"
-date: "2024-01-15"
+date: "2025-09-15"
 author: "Messiah First for America PAC"
 category: "Endorsement Policy"
 excerpt: "Our standards for evaluating and endorsing political candidates."
@@ -11,7 +11,7 @@ excerpt: "Our standards for evaluating and endorsing political candidates."
 ## Primary Requirements
 
 ### Faith Declaration
-Candidates must demonstrate a genuine personal relationship with Yeshua (Jesus) as Lord and Savior through:
+Candidates must demonstrate a genuine personal relationship with Yeshua (Jesus) as L-rd and Savior through:
 - Public testimony of faith in Christ
 - Active participation in a Bible-believing congregation
 - Evidence of Christian character and integrity

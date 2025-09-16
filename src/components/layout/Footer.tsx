@@ -19,7 +19,7 @@ export default function Footer() {
               <h3 className="text-lg font-semibold">About Us</h3>
             </div>
             <p className="text-blue-100 text-sm leading-relaxed">
-              Proclaiming the Name of Yeshua the Messiah in America, educating on Messianic policy,
+              Proclaiming the Name of Yeshua the Jewish Messiah in America, educating on Messianic policy,
               and supporting politicians who promote these values.
             </p>
           </div>
@@ -96,11 +96,22 @@ export default function Footer() {
         {/* Bottom Section */}
         <div className="border-t border-blue-800 mt-8 pt-8 text-center">
           <p className="text-blue-100 text-sm">
-            © 2024 Messiah First for America PAC. All rights reserved.
+            © 2025 Messiah First for America PAC. All rights reserved.
           </p>
           <p className="text-blue-200 text-xs mt-2">
             Paid for by Messiah First for America PAC and not authorized by any candidate or candidate&apos;s committee.
           </p>
+          <p className="text-blue-200 text-xs mt-1">
+            Contributions are not tax deductible as charitable contributions for federal income tax purposes.
+          </p>
+          <p className="text-blue-200 text-xs mt-5">
+            FEIN 39-3408257
+          </p>
+        </div>
+      </div>
+      <div className="bg-blue-800 text-center py-4">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-blue-200 text-sm">
+          Website by <a href="https://hire.adam.matthewsteinberger.com" className="underline hover:text-white">Adam Matthew Steinberger LLC</a>
         </div>
       </div>
     </footer>

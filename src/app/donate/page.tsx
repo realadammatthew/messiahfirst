@@ -15,7 +15,7 @@ export default function DonatePage() {
           <p className="text-green-600 font-semibold mb-2">SUPPORT THE MISSION</p>
           <h1 className="text-4xl font-bold text-blue-900 mb-4">Make a Donation</h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Help us proclaim Yeshua the Messiah and support candidates who will advance His kingdom principles in America.
+            Help us proclaim Yeshua the Jewish Messiah and support candidates who will advance His kingdom principles in America.
           </p>
         </div>
 
@@ -29,7 +29,7 @@ export default function DonatePage() {
               </div>
               <h3 className="font-semibold text-blue-900 mb-2">Proclaim Yeshua</h3>
               <p className="text-gray-600 text-sm">
-                Fund campaigns that boldly declare Yeshua as Lord in the public square
+                Fund campaigns that boldly declare Yeshua as L-rd in the public square
               </p>
             </div>
             <div className="text-center p-4">

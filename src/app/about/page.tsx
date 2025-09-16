@@ -44,7 +44,7 @@ export default function AboutPage() {
                 </p>
                 <p>
                   Our leadership brings together experience in politics, ministry, and business,
-                  united by a shared commitment to proclaiming Yeshua the Messiah and supporting
+                  united by a shared commitment to proclaiming Yeshua the Jewish Messiah and supporting
                   candidates who will advance His kingdom values.
                 </p>
                 <p>
@@ -75,7 +75,7 @@ export default function AboutPage() {
               <h4 className="text-lg font-semibold text-blue-800 mb-3">Biblical Foundation</h4>
               <p className="text-gray-600 text-sm">
                 Every decision we make is grounded in Scripture and guided by prayer.
-                We seek God&apos;s wisdom in all our political engagement and candidate evaluation.
+                We seek G-d&apos;s wisdom in all our political engagement and candidate evaluation.
               </p>
             </div>
             <div>
@@ -96,7 +96,7 @@ export default function AboutPage() {
               <h4 className="text-lg font-semibold text-blue-800 mb-3">Boldness</h4>
               <p className="text-gray-600 text-sm">
                 We boldly proclaim the Name of Yeshua without shame, knowing that
-                He is Lord over every sphere of society, including government.
+                He is L-rd over every sphere of society, including government.
               </p>
             </div>
           </div>
@@ -108,7 +108,7 @@ export default function AboutPage() {
           <p className="text-blue-100 mb-6 leading-relaxed">
             We envision an America where the Name of Yeshua is honored in public discourse,
             where biblical values guide policy decisions, where religious freedom flourishes,
-            and where the next generation inherits a nation that acknowledges God as Lord.
+            and where the next generation inherits a nation that acknowledges G-d as L-rd.
           </p>
           <div className="flex gap-4 justify-center flex-col sm:flex-row">
             <Link

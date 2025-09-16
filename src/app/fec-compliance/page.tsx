@@ -37,7 +37,7 @@ export default function FECCompliancePage() {
             </div>
             <div>
               <p className="font-medium text-yellow-800">FEC ID:</p>
-              <p className="text-yellow-700">[To be assigned upon registration]</p>
+              <p className="text-yellow-700">C00913418</p>
             </div>
             <div>
               <p className="font-medium text-yellow-800">Registration Status:</p>
@@ -142,7 +142,9 @@ export default function FECCompliancePage() {
               <ul className="space-y-2 text-sm text-gray-700">
                 <li>
                   <strong>Compliance Questions:</strong><br />
-                  compliance@messiahfirstpac.org
+                  <a href="mailto:tikkunolam@messiahfirst.org" className="text-blue-600 hover:text-blue-800">
+                    tikkunolam@messiahfirst.org
+                  </a>
                 </li>
                 <li>
                   <strong>General Inquiries:</strong><br />

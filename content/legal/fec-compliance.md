@@ -1,6 +1,6 @@
 ---
 title: "FEC Compliance and Legal Information"
-date: "2024-01-15"
+date: "2025-09-15"
 author: "Messiah First for America PAC"
 excerpt: "Federal Election Commission compliance and legal disclosures."
 ---
@@ -10,17 +10,24 @@ excerpt: "Federal Election Commission compliance and legal disclosures."
 ## Committee Information
 
 **Official Committee Name**: Messiah First for America PAC
+
 **FEIN**: 39-3408257
-**FEC Committee ID**: [To be assigned upon FEC registration]
+
+**FEC Committee ID**: C00913418
+
 **Committee Type**: Independent Expenditure-Only Committee (Super PAC)
-**Registration Date**: [Date of FEC registration]
+
+**Registration Date**: July 30, 2025
 
 ## Treasurer Information
 
-**Treasurer**: [Name to be provided]
-**Address**: [Address to be provided]
-**Phone**: [Phone number to be provided]
-**Email**: [Email to be provided]
+**Treasurer**: Adam Matthew Steinberger
+
+**Address**: 236 Tippin Trl, Travelers Rest, South Carolina 29690
+
+**Phone**: (864) 517-4117
+
+**Email**: tikkunolam@messiahfirst.org
 
 ## Legal Disclaimers
 
@@ -61,9 +68,9 @@ All contribution and expenditure information is publicly available through:
 
 ### Contact Information
 For questions about contributions, expenditures, or FEC compliance:
-- **Email**: compliance@messiahfirstpac.org
-- **Phone**: [Phone number to be provided]
-- **Address**: [Mailing address to be provided]
+- **Email**: tikkunolam@messiahfirst.org
+- **Phone**: (864) 517-4117
+- **Address**: 236 Tippin Trl, Travelers Rest, South Carolina 29690
 
 ## Independent Expenditure Policy
 
@@ -92,11 +99,13 @@ We implement appropriate security measures to protect donor information and comp
 ## Legal Counsel
 
 **Legal Counsel**: [Attorney name and firm to be provided]
+
 **Specialization**: Election Law and FEC Compliance
+
 **Contact**: [Contact information to be provided]
 
 ---
 
 *This page is updated regularly to reflect current FEC regulations and committee status. For the most current information, please refer to our FEC filings at FEC.gov.*
 
-**Last Updated**: [Date to be updated with each revision]
+**Last Updated**: September 15, 2025

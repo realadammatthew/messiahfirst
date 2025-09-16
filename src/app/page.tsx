@@ -19,7 +19,7 @@ export default function Home() {
             Messiah First for America PAC
           </h1>
           <p className="text-xl md:text-2xl mb-8 leading-relaxed drop-shadow-lg">
-            Proclaiming the Name of Yeshua the Messiah in America, educating on Messianic policy,
+            Proclaiming the Name of Yeshua the Jewish Messiah in America, educating on Messianic policy,
             and supporting politicians who promote these values.
           </p>
           <div className="flex gap-4 justify-center flex-col sm:flex-row">
@@ -44,7 +44,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold text-blue-900 mb-3">Proclaim Yeshua</h3>
               <p className="text-gray-600">
-                Boldly proclaiming the Name of Yeshua the Messiah throughout America
+                Boldly proclaiming the Name of Yeshua the Jewish Messiah throughout America
               </p>
             </div>
             <div className="text-center p-6">

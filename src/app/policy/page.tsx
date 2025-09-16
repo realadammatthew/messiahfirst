@@ -29,7 +29,7 @@ export default function PolicyPage() {
             <div className="p-4 border border-gray-200 rounded-lg">
               <h3 className="font-semibold text-blue-800 mb-2">Sanctity of Life</h3>
               <p className="text-gray-600 text-sm">
-                Protecting all human life from conception to natural death as created in God&apos;s image.
+                Protecting all human life from conception to natural death as created in G-d&apos;s image.
               </p>
             </div>
             <div className="p-4 border border-gray-200 rounded-lg">
@@ -47,7 +47,7 @@ export default function PolicyPage() {
             <div className="p-4 border border-gray-200 rounded-lg">
               <h3 className="font-semibold text-blue-800 mb-2">Israel Support</h3>
               <p className="text-gray-600 text-sm">
-                Standing with Israel as God&apos;s chosen people and supporting America&apos;s alliance with the Jewish state.
+                Standing with Israel as G-d&apos;s chosen people and supporting America&apos;s alliance with the Jewish state.
               </p>
             </div>
             <div className="p-4 border border-gray-200 rounded-lg">

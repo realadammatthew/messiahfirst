@@ -1,6 +1,6 @@
 ---
 title: "Biblical Principles for Governance"
-date: "2024-01-15"
+date: "2025-09-15"
 author: "Messiah First for America PAC"
 category: "Policy Position"
 excerpt: "How biblical principles should inform public policy and governance in America."
@@ -8,9 +8,9 @@ excerpt: "How biblical principles should inform public policy and governance in 
 
 # Biblical Principles for Governance
 
-## Foundation: Government as God's Institution
+## Foundation: Government as G-d's Institution
 
-We believe that government is ordained by God for the purpose of promoting good and restraining evil (Romans 13:1-7). This divine mandate gives government both authority and responsibility to operate according to biblical principles.
+We believe that government is ordained by G-d for the purpose of promoting good and restraining evil (Romans 13:1-7). This divine mandate gives government both authority and responsibility to operate according to biblical principles.
 
 ## Core Policy Positions
 
@@ -27,18 +27,18 @@ We believe that government is ordained by God for the purpose of promoting good 
 
 ### Religious Liberty
 
-**Biblical Foundation**: "Render to Caesar what is Caesar's, and to God what is God's" (Matthew 22:21)
+**Biblical Foundation**: "Render to Caesar what is Caesar's, and to G-d what is G-d's" (Matthew 22:21)
 
 **Policy Positions**:
 - Protect the free exercise of religion in public and private spheres
 - Defend religious exemptions for faith-based organizations
 - Support the right of business owners to operate according to their convictions
 - Oppose government mandates that violate religious conscience
-- Maintain the right to freely share the Gospel
+- Maintain the right to freely share the Good News
 
 ### Marriage and Family
 
-**Biblical Foundation**: "God created mankind in his own image... male and female he created them" (Genesis 1:27)
+**Biblical Foundation**: "G-d created mankind in his own image... male and female he created them" (Genesis 1:27)
 
 **Policy Positions**:
 - Support the biblical definition of marriage as between one man and one woman
@@ -95,12 +95,12 @@ We believe that government is ordained by God for the purpose of promoting good 
 ### Grassroots Mobilization
 - Build networks of believers committed to biblical governance
 - Organize prayer and fasting for our nation's leaders
-- Encourage civic participation among Christians
+- Encourage civic participation among Messianics and Christians
 
 ## The Ultimate Goal
 
-Our goal is not to establish a theocracy, but to see biblical principles influence public policy for the flourishing of all Americans. We believe that when government operates according to God's design, all people benefit from the resulting justice, peace, and prosperity.
+Our goal is not to establish a theocracy, but to see biblical principles influence public policy for the flourishing of all Americans. We believe that when government operates according to G-d's design, all people benefit from the resulting justice, peace, and prosperity.
 
-As we engage in the political process, we do so with humility, recognizing that our ultimate hope is not in government but in the Kingdom of God. Yet we also recognize our responsibility as citizens to be salt and light in our nation's civic life.
+As we engage in the political process, we do so with humility, recognizing that our ultimate hope is not in government but in the Kingdom of G-d. Yet we also recognize our responsibility as citizens to be salt and light in our nation's civic life.
 
 *"Righteousness exalts a nation, but sin condemns any people."* - Proverbs 14:34

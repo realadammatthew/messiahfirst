@@ -1,6 +1,6 @@
 # Image Assets
 
-This directory contains image assets for the Messiah First for America PAC website.
+This directory contains image assets for the Jewish Messiah First for America PAC website.
 
 ## Expected Assets
 

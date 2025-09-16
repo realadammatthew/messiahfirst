@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import ContactForm from '@/components/contact/ContactForm';
 
 export const metadata: Metadata = {
   title: 'Contact Us - Messiah First for America PAC',
@@ -24,91 +25,7 @@ export default function ContactPage() {
           <div className="bg-white rounded-lg shadow-lg p-8">
             <h2 className="text-2xl font-bold text-blue-900 mb-6">Send us a Message</h2>
 
-            <form className="space-y-6">
-              <div>
-                <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-2">
-                  Full Name *
-                </label>
-                <input
-                  type="text"
-                  id="name"
-                  name="name"
-                  required
-                  className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                />
-              </div>
-
-              <div>
-                <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-2">
-                  Email Address *
-                </label>
-                <input
-                  type="email"
-                  id="email"
-                  name="email"
-                  required
-                  className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                />
-              </div>
-
-              <div>
-                <label htmlFor="phone" className="block text-sm font-medium text-gray-700 mb-2">
-                  Phone Number
-                </label>
-                <input
-                  type="tel"
-                  id="phone"
-                  name="phone"
-                  className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                />
-              </div>
-
-              <div>
-                <label htmlFor="subject" className="block text-sm font-medium text-gray-700 mb-2">
-                  Subject *
-                </label>
-                <select
-                  id="subject"
-                  name="subject"
-                  required
-                  className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                >
-                  <option value="">Select a subject</option>
-                  <option value="general">General Inquiry</option>
-                  <option value="endorsement">Candidate Endorsement Application</option>
-                  <option value="donation">Donation Questions</option>
-                  <option value="volunteer">Volunteer Opportunities</option>
-                  <option value="media">Media Inquiry</option>
-                  <option value="compliance">Compliance/Legal Question</option>
-                  <option value="other">Other</option>
-                </select>
-              </div>
-
-              <div>
-                <label htmlFor="message" className="block text-sm font-medium text-gray-700 mb-2">
-                  Message *
-                </label>
-                <textarea
-                  id="message"
-                  name="message"
-                  rows={6}
-                  required
-                  className="w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
-                  placeholder="Please provide details about your inquiry..."
-                ></textarea>
-              </div>
-
-              <button
-                type="submit"
-                className="w-full bg-blue-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
-              >
-                Send Message
-              </button>
-            </form>
-
-            <p className="text-sm text-gray-500 mt-4">
-              * Required fields. We typically respond within 24-48 hours.
-            </p>
+            <ContactForm />
           </div>
 
           {/* Contact Information */}
@@ -118,9 +35,9 @@ export default function ContactPage() {
               <h3 className="text-xl font-bold text-blue-900 mb-4">Mailing Address</h3>
               <div className="text-gray-700">
                 <p className="font-semibold">Messiah First for America PAC</p>
-                <p>[Treasurer Name]</p>
-                <p>[Street Address]</p>
-                <p>[City, State ZIP Code]</p>
+                <p>Adam Matthew Steinberger</p>
+                <p>236 Tippin Trl</p>
+                <p>Travelers Rest, SC 29690</p>
               </div>
             </div>
 
@@ -129,27 +46,9 @@ export default function ContactPage() {
               <h3 className="text-xl font-bold text-blue-900 mb-4">Email Contacts</h3>
               <div className="space-y-3 text-sm">
                 <div>
-                  <p className="font-medium text-gray-700">General Inquiries:</p>
-                  <a href="mailto:info@messiahfirstpac.org" className="text-blue-600 hover:text-blue-800">
-                    info@messiahfirstpac.org
-                  </a>
-                </div>
-                <div>
-                  <p className="font-medium text-gray-700">Compliance Questions:</p>
-                  <a href="mailto:compliance@messiahfirstpac.org" className="text-blue-600 hover:text-blue-800">
-                    compliance@messiahfirstpac.org
-                  </a>
-                </div>
-                <div>
-                  <p className="font-medium text-gray-700">Media Inquiries:</p>
-                  <a href="mailto:media@messiahfirstpac.org" className="text-blue-600 hover:text-blue-800">
-                    media@messiahfirstpac.org
-                  </a>
-                </div>
-                <div>
-                  <p className="font-medium text-gray-700">Candidate Applications:</p>
-                  <a href="mailto:endorsements@messiahfirstpac.org" className="text-blue-600 hover:text-blue-800">
-                    endorsements@messiahfirstpac.org
+                  <p className="font-medium text-gray-700">All Inquiries:</p>
+                  <a href="mailto:tikkunolam@messiahfirst.org" className="text-blue-600 hover:text-blue-800">
+                    tikkunolam@messiahfirst.org
                   </a>
                 </div>
               </div>
@@ -160,8 +59,6 @@ export default function ContactPage() {
               <h3 className="text-xl font-bold text-blue-900 mb-4">Office Hours</h3>
               <div className="text-gray-700 text-sm space-y-1">
                 <p><strong>Monday - Friday:</strong> 9:00 AM - 5:00 PM EST</p>
-                <p><strong>Saturday:</strong> By appointment only</p>
-                <p><strong>Sunday:</strong> Closed</p>
               </div>
             </div>
 
