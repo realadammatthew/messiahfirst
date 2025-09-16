@@ -19,7 +19,7 @@ export default function Footer() {
               <h3 className="text-lg font-semibold">About Us</h3>
             </div>
             <p className="text-blue-100 text-sm leading-relaxed">
-              Proclaiming the Name of Yeshua the Jewish Messiah in America, educating on Messianic policy,
+              Proclaiming the Name of Yeshua (Jesus) the Jewish Messiah in America, educating on Messianic (Christian) policy,
               and supporting politicians who promote these values.
             </p>
           </div>
@@ -82,14 +82,24 @@ export default function Footer() {
           <div>
             <h3 className="text-lg font-semibold mb-4">Get Involved</h3>
             <p className="text-blue-100 text-sm mb-4">
-              Join our mission to proclaim Yeshua and advance His kingdom in America.
+              Join our mission to proclaim Yeshua (Jesus) and advance His kingdom in America.
             </p>
-            <Link
-              href="/donate"
-              className="bg-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:bg-green-700 transition-colors inline-block"
-            >
-              Donate Now
-            </Link>
+            <div className="space-y-2">
+              <Link
+                href="/donate"
+                className="block bg-green-600 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:bg-green-700 transition-colors text-center"
+              >
+                Donate Now
+              </Link>
+              <a
+                href="http://eepurl.com/jnqOAQ"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block bg-blue-700 text-white px-4 py-2 rounded-lg text-sm font-semibold hover:bg-blue-800 transition-colors text-center"
+              >
+                Newsletter Signup
+              </a>
+            </div>
           </div>
         </div>
 
@@ -103,6 +113,18 @@ export default function Footer() {
           </p>
           <p className="text-blue-200 text-xs mt-1">
             Contributions are not tax deductible as charitable contributions for federal income tax purposes.
+          </p>
+          <p className="text-blue-200 text-xs mt-3">
+            Contributions from foreign nationals are prohibited.
+          </p>
+          <p className="text-blue-200 text-xs mt-1">
+            Corporate contributions and contributions from federal government contractors are prohibited.
+          </p>
+          <p className="text-blue-200 text-xs mt-1">
+            Maximum contribution per individual is $5,000 per calendar year.
+          </p>
+          <p className="text-blue-200 text-xs mt-1">
+            Treasurer: Adam Matthew Steinberger, 236 Tippin Trl, Travelers Rest, SC 29690
           </p>
           <p className="text-blue-200 text-xs mt-5">
             FEIN 39-3408257

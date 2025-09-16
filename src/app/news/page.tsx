@@ -19,7 +19,7 @@ export default function NewsPage() {
           <p className="text-blue-600 font-semibold mb-2">STAY INFORMED</p>
           <h1 className="text-4xl font-bold text-blue-900 mb-4">News & Updates</h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Latest news, endorsements, and insights from our mission to proclaim Yeshua and advance biblical principles in American politics.
+            Latest news, endorsements, and insights from our mission to proclaim Yeshua (Jesus) and advance biblical principles in American politics.
           </p>
         </div>
 
@@ -123,16 +123,16 @@ export default function NewsPage() {
             Get the latest news, endorsements, and policy updates delivered to your inbox.
           </p>
 
-          {/* Newsletter signup placeholder */}
+          {/* Mailchimp Newsletter Signup */}
           <div className="max-w-md mx-auto mb-6">
-            <div className="bg-blue-800 border border-blue-700 rounded-lg p-4 text-center">
-              <p className="text-blue-200 text-sm mb-2">
-                <strong>Newsletter Signup</strong>
-              </p>
-              <p className="text-blue-300 text-xs">
-                Email subscription form will be integrated here
-              </p>
-            </div>
+            <a
+              href="http://eepurl.com/jnqOAQ"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-block bg-green-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors"
+            >
+              Subscribe to Newsletter
+            </a>
           </div>
 
           <div className="flex gap-4 justify-center flex-col sm:flex-row">
@@ -144,7 +144,7 @@ export default function NewsPage() {
             </Link>
             <Link
               href="/mission"
-              className="bg-green-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors"
+              className="bg-gray-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-gray-700 transition-colors"
             >
               Learn About Our Mission
             </Link>

@@ -12,9 +12,9 @@ excerpt: "Our standards for evaluating and endorsing political candidates."
 
 ### Faith Declaration
 Candidates must demonstrate a genuine personal relationship with Yeshua (Jesus) as L-rd and Savior through:
-- Public testimony of faith in Christ
+- Public testimony of faith in Yeshua (Jesus)
 - Active participation in a Bible-believing congregation
-- Evidence of Christian character and integrity
+- Evidence of Messianic (Christian) character and integrity
 - Commitment to biblical worldview in governance
 
 ### Policy Alignment
@@ -49,13 +49,13 @@ Candidates must support our core policy positions:
 
 ### Tier 1 - Full Endorsement
 - 100% alignment with our core values
-- Strong Christian testimony and character
+- Strong Messianic (Christian) testimony and character
 - Proven track record of principled leadership
 - Receives maximum financial and organizational support
 
 ### Tier 2 - Qualified Support
 - 80-99% alignment with our core values
-- Solid Christian foundation
+- Solid Messianic (Christian) foundation
 - Generally reliable on key issues
 - Receives moderate support based on specific races
 

@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Messiah First for America PAC
+
+Official website for **Messiah First for America PAC**, a SuperPAC dedicated to proclaiming the Name of Yeshua (Jesus) the Jewish Messiah in America, educating the public on Messianic (Christian) policy, and supporting politicians who promote these values.
+
+## Technology Stack
+
+- **Framework**: Next.js 15 with App Router
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **Forms**: Formspree integration
+- **Package Manager**: npm
 
 ## Getting Started
 
-First, run the development server:
+First, install dependencies:
+
+```bash
+npm install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Available Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run start` - Start production server
+- `npm run lint` - Run ESLint
+- `npx tsc --noEmit` - Type check
 
-## Learn More
+## Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+- `src/app/` - App Router pages and layouts
+- `src/components/` - Reusable UI components
+- `public/` - Static assets
+- `tailwind.config.ts` - Tailwind CSS configuration
+- `tsconfig.json` - TypeScript configuration
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Key Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. **Mission Statement** - Clear presentation of the PAC's Messianic (Christian) values
+2. **Policy Education** - Resources and information on supported policies
+3. **Politician Support** - Information about endorsed candidates and their positions
+4. **Donation/Fundraising** - Secure donation processing (compliance with FEC regulations)
+5. **News/Updates** - Blog or news section for updates and announcements
+6. **Contact Form** - Formspree-powered contact form
+7. **Newsletter Signup** - Mailchimp integration
 
-## Deploy on Vercel
+## Compliance
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+As a Super PAC website, this project ensures compliance with:
+- FEC reporting and disclosure requirements
+- Political advertising regulations
+- Donation tracking and limits
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Legal Information
+
+**Treasurer**: Adam Matthew Steinberger
+**Address**: 236 Tippin Trl, Travelers Rest, SC 29690
+**FEIN**: 39-3408257
+
+Paid for by Messiah First for America PAC and not authorized by any candidate or candidate's committee.

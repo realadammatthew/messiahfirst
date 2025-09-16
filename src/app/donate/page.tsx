@@ -3,7 +3,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Donate - Messiah First for America PAC',
-  description: 'Support our mission to proclaim Yeshua and advance biblical principles in American politics through your donation.',
+  description: 'Support our mission to proclaim Yeshua (Jesus) and advance biblical principles in American politics through your donation.',
 };
 
 export default function DonatePage() {
@@ -15,7 +15,7 @@ export default function DonatePage() {
           <p className="text-green-600 font-semibold mb-2">SUPPORT THE MISSION</p>
           <h1 className="text-4xl font-bold text-blue-900 mb-4">Make a Donation</h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Help us proclaim Yeshua the Jewish Messiah and support candidates who will advance His kingdom principles in America.
+            Help us proclaim Yeshua (Jesus) the Jewish Messiah and support candidates who will advance His kingdom principles in America.
           </p>
         </div>
 
@@ -27,9 +27,9 @@ export default function DonatePage() {
               <div className="bg-green-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-2xl">📢</span>
               </div>
-              <h3 className="font-semibold text-blue-900 mb-2">Proclaim Yeshua</h3>
+              <h3 className="font-semibold text-blue-900 mb-2">Proclaim Yeshua (Jesus)</h3>
               <p className="text-gray-600 text-sm">
-                Fund campaigns that boldly declare Yeshua as L-rd in the public square
+                Fund campaigns that boldly declare Yeshua (Jesus) as L-rd in the public square
               </p>
             </div>
             <div className="text-center p-4">
@@ -96,9 +96,9 @@ export default function DonatePage() {
 
               <p className="font-semibold text-blue-900 mt-4 mb-2">Mail to:</p>
               <div className="text-blue-800">
-                <p>[Treasurer Name]</p>
-                <p>[Mailing Address]</p>
-                <p>[City, State ZIP]</p>
+                <p>Adam Matthew Steinberger</p>
+                <p>236 Tippin Trl</p>
+                <p>Travelers Rest, SC 29690</p>
               </div>
             </div>
 

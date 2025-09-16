@@ -19,7 +19,7 @@ export default function Home() {
             Messiah First for America PAC
           </h1>
           <p className="text-xl md:text-2xl mb-8 leading-relaxed drop-shadow-lg">
-            Proclaiming the Name of Yeshua the Jewish Messiah in America, educating on Messianic policy,
+            Proclaiming the Name of Yeshua (Jesus) the Jewish Messiah in America, educating on Messianic (Christian) policy,
             and supporting politicians who promote these values.
           </p>
           <div className="flex gap-4 justify-center flex-col sm:flex-row">
@@ -42,9 +42,9 @@ export default function Home() {
               <div className="bg-blue-100 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                 <span className="text-2xl">🙏</span>
               </div>
-              <h3 className="text-xl font-semibold text-blue-900 mb-3">Proclaim Yeshua</h3>
+              <h3 className="text-xl font-semibold text-blue-900 mb-3">Proclaim Yeshua (Jesus)</h3>
               <p className="text-gray-600">
-                Boldly proclaiming the Name of Yeshua the Jewish Messiah throughout America
+                Boldly proclaiming the Name of Yeshua (Jesus) the Jewish Messiah throughout America
               </p>
             </div>
             <div className="text-center p-6">
@@ -53,7 +53,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-semibold text-blue-900 mb-3">Educate Public</h3>
               <p className="text-gray-600">
-                Educating Americans on Messianic and Christian policy principles
+                Educating Americans on Messianic (Christian) policy principles
               </p>
             </div>
             <div className="text-center p-6">
@@ -74,11 +74,24 @@ export default function Home() {
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold mb-6">Join the Movement</h2>
           <p className="text-xl mb-8">
-            Help us proclaim Yeshua and support leaders who will advance His kingdom in America.
+            Help us proclaim Yeshua (Jesus) and support leaders who will advance His kingdom in America.
           </p>
-          <button className="bg-green-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors">
-            Get Involved Today
-          </button>
+          <div className="flex gap-4 justify-center flex-col sm:flex-row mb-8">
+            <Link href="/donate" className="bg-green-600 text-white px-8 py-3 rounded-lg font-semibold hover:bg-green-700 transition-colors">
+              Donate Now
+            </Link>
+            <a
+              href="http://eepurl.com/jnqOAQ"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-blue-700 text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-800 transition-colors"
+            >
+              Subscribe to Updates
+            </a>
+          </div>
+          <p className="text-blue-200 text-sm">
+            Stay informed with our newsletter featuring policy updates, endorsements, and ways to get involved.
+          </p>
         </div>
       </section>
     </div>

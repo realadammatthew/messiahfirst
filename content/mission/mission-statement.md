@@ -7,11 +7,11 @@ excerpt: "Our foundational mission to proclaim Yeshua, educate on Messianic poli
 
 # Our Mission Statement
 
-## Proclaiming the Name of Yeshua the Jewish Messiah
+## Proclaiming the Name of Yeshua (Jesus) the Jewish Messiah
 
 At Messiah First for America PAC, we believe that **Yeshua (Jesus) is the Jewish Messiah** and that His Name should be proclaimed boldly throughout America. We stand on the foundation that this nation was established on Judeo-Christian principles, and we seek to restore and maintain those biblical foundations in our political discourse and governance.
 
-## Educating on Messianic and Christian Policy
+## Educating on Messianic (Christian) Policy
 
 We are committed to educating the American public on policies that align with Messianic (Christian) values, including:
 
@@ -25,7 +25,7 @@ We are committed to educating the American public on policies that align with Me
 
 We identify, endorse, and financially support political candidates who:
 
-- Acknowledge Yeshua as L-rd and Savior
+- Acknowledge Yeshua (Jesus) as L-rd and Savior
 - Demonstrate a commitment to governing according to biblical principles
 - Support policies that advance the Kingdom of G-d in America
 - Stand boldly for religious freedom and traditional values
@@ -35,7 +35,7 @@ We identify, endorse, and financially support political candidates who:
 
 We envision an America where:
 
-- The Name of Yeshua is honored in public discourse
+- The Name of Yeshua (Jesus) is honored in public discourse
 - Biblical values guide policy decisions
 - Religious freedom is protected and celebrated
 - The next generation is raised with strong moral foundations

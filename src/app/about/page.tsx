@@ -16,7 +16,7 @@ export default function AboutPage() {
           <p className="text-blue-600 font-semibold mb-2">LEADERSHIP</p>
           <h1 className="text-4xl font-bold text-blue-900 mb-4">About Our Leadership</h1>
           <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-            Meet the team committed to proclaiming Yeshua and advancing His kingdom principles in America.
+            Meet the team committed to proclaiming  (Jesus) and advancing His kingdom principles in America.
           </p>
         </div>
 
@@ -25,13 +25,16 @@ export default function AboutPage() {
           <div className="flex flex-col md:flex-row items-center md:items-start gap-8">
             {/* Profile Picture */}
             <div className="flex-shrink-0">
-              <Image
-                src="/images/profile-picture.jpg"
-                alt="PAC Leadership"
-                width={250}
-                height={250}
-                className="rounded-lg shadow-md"
-              />
+              <Link href="https://hire.adam.matthewsteinberger.com" target="_blank" rel="noopener noreferrer">
+                <Image
+                  src="/images/profile-picture.jpg"
+                  alt="PAC Leadership"
+                  width={250}
+                  height={250}
+                  className="rounded-lg shadow-md"
+                />
+              </Link>
+              <p className="text-sm text-gray-500 mt-2 text-center">Adam Matthew Steinberger</p>
             </div>
 
             {/* Profile Content */}
@@ -44,7 +47,7 @@ export default function AboutPage() {
                 </p>
                 <p>
                   Our leadership brings together experience in politics, ministry, and business,
-                  united by a shared commitment to proclaiming Yeshua the Jewish Messiah and supporting
+                  united by a shared commitment to proclaiming Yeshua (Jesus) the Jewish Messiah and supporting
                   candidates who will advance His kingdom values.
                 </p>
                 <p>
@@ -95,7 +98,7 @@ export default function AboutPage() {
             <div>
               <h4 className="text-lg font-semibold text-blue-800 mb-3">Boldness</h4>
               <p className="text-gray-600 text-sm">
-                We boldly proclaim the Name of Yeshua without shame, knowing that
+                We boldly proclaim the Name of Yeshua (Jesus) without shame, knowing that
                 He is L-rd over every sphere of society, including government.
               </p>
             </div>
@@ -106,7 +109,7 @@ export default function AboutPage() {
         <div className="bg-blue-900 text-white rounded-lg p-8 text-center">
           <h3 className="text-2xl font-bold mb-4">Our Vision for America</h3>
           <p className="text-blue-100 mb-6 leading-relaxed">
-            We envision an America where the Name of Yeshua is honored in public discourse,
+            We envision an America where the Name of Yeshua (Jesus) is honored in public discourse,
             where biblical values guide policy decisions, where religious freedom flourishes,
             and where the next generation inherits a nation that acknowledges G-d as L-rd.
           </p>

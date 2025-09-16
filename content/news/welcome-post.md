@@ -3,24 +3,24 @@ title: "Welcome to Messiah First for America PAC"
 date: "2025-09-15"
 author: "PAC Leadership Team"
 category: "Announcement"
-excerpt: "Introducing our mission to proclaim Yeshua and advance His kingdom through American politics."
+excerpt: "Introducing our mission to proclaim Yeshua (Jesus) and advance His kingdom through American politics."
 featured: true
 ---
 
 # Welcome to Messiah First for America PAC
 
-We are excited to launch Messiah First for America PAC, a Super PAC dedicated to proclaiming the Name of Yeshua the Jewish Messiah in American politics and supporting candidates who will advance His kingdom principles in governance.
+We are excited to launch Messiah First for America PAC, a Super PAC dedicated to proclaiming the Name of Yeshua (Jesus) the Jewish Messiah in American politics and supporting candidates who will advance His kingdom principles in governance.
 
 ## Why Now?
 
-America stands at a crossroads. The foundational Judeo-Christian principles that built this great nation are under attack from multiple fronts. We believe it's time for believers to stand up boldly and declare that **Yeshua is L-rd** over every aspect of life, including our political system.
+America stands at a crossroads. The foundational Judeo-Christian principles that built this great nation are under attack from multiple fronts. We believe it's time for believers to stand up boldly and declare that **Yeshua (Jesus) is L-rd** over every aspect of life, including our political system.
 
 ## Our Three-Fold Mission
 
-### 1. Proclaim Yeshua the Jewish Messiah
+### 1. Proclaim Yeshua (Jesus) the Jewish Messiah
 We will not be ashamed of the Good News or hide our faith in the public square. Every action we take will boldly proclaim that Yeshua (Jesus) is the Jewish Messiah, the Son of the Living G-d, and the rightful King over all nations.
 
-### 2. Educate on Messianic Policy
+### 2. Educate on Messianic (Christian) Policy
 We will provide clear, biblical guidance on the policy issues facing our nation. From the sanctity of life to support for Israel, from religious liberty to biblical marriage, we will help believers understand how their faith should inform their political engagement.
 
 ### 3. Support Aligned Candidates
@@ -28,7 +28,7 @@ We will identify, endorse, and financially support political candidates who shar
 
 ## What Makes Us Different
 
-Unlike other political organizations, we are explicitly **Messiah-centered**. While we welcome support from all who share our values, our foundation is uncompromisingly built on faith in Yeshua as L-rd and Savior.
+Unlike other political organizations, we are explicitly **Messiah-centered**. While we welcome support from all who share our values, our foundation is uncompromisingly built on faith in Yeshua (Jesus) as L-rd and Savior.
 
 We believe that:
 - Government is ordained by G-d and should operate according to His principles
@@ -62,7 +62,7 @@ We live in times that demand bold faith and courageous action. The forces opposi
 
 As we launch this PAC, we do so with humility, knowing that our ultimate hope is not in politics but in the Kingdom of G-d. Yet we also recognize that G-d calls His people to be engaged citizens, working for justice and righteousness in every sphere of society.
 
-Join us as we stand boldly for Yeshua, educate our fellow believers, and support leaders who will honor G-d in American governance.
+Join us as we stand boldly for Yeshua (Jesus), educate our fellow believers, and support leaders who will honor G-d in American governance.
 
 **"Blessed is the nation whose G-d is the L-rd, the people he chose for his inheritance."** - Psalm 33:12
 

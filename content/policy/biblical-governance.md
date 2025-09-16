@@ -95,7 +95,7 @@ We believe that government is ordained by G-d for the purpose of promoting good 
 ### Grassroots Mobilization
 - Build networks of believers committed to biblical governance
 - Organize prayer and fasting for our nation's leaders
-- Encourage civic participation among Messianics and Christians
+- Encourage civic participation among Messianics (Christians)
 
 ## The Ultimate Goal
 

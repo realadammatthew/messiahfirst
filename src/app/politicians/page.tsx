@@ -31,7 +31,7 @@ export default function PoliticiansPage() {
               <ul className="space-y-2 text-gray-600">
                 <li className="flex items-start">
                   <span className="text-blue-500 mr-2">✓</span>
-                  Personal relationship with Yeshua as L-rd and Savior
+                  Personal relationship with Yeshua (Jesus) as L-rd and Savior
                 </li>
                 <li className="flex items-start">
                   <span className="text-blue-500 mr-2">✓</span>
@@ -39,7 +39,7 @@ export default function PoliticiansPage() {
                 </li>
                 <li className="flex items-start">
                   <span className="text-blue-500 mr-2">✓</span>
-                  Evidence of Christian character and integrity
+                  Evidence of Messianic (Christian) character and integrity
                 </li>
                 <li className="flex items-start">
                   <span className="text-blue-500 mr-2">✓</span>
@@ -152,7 +152,7 @@ export default function PoliticiansPage() {
                 <li>• Financial support through independent expenditures</li>
                 <li>• Grassroots mobilization</li>
                 <li>• Policy guidance and resources</li>
-                <li>• Connection with Christian voter networks</li>
+                <li>• Connection with Messianic (Christian) voter networks</li>
               </ul>
             </div>
             <div>

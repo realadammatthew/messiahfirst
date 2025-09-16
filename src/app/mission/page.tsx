@@ -5,7 +5,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Our Mission - Messiah First for America PAC',
-  description: 'Learn about our mission to proclaim Yeshua, educate on Messianic policy, and support aligned political leaders.',
+  description: 'Learn about our mission to proclaim Yeshua (Jesus), educate on Messianic (Christian) policy, and support aligned political leaders.',
 };
 
 export default function MissionPage() {
@@ -31,7 +31,7 @@ export default function MissionPage() {
           <div className="bg-blue-900 text-white rounded-lg p-8">
             <h3 className="text-2xl font-bold mb-4">Ready to Join Our Mission?</h3>
             <p className="text-blue-100 mb-6">
-              Help us proclaim Yeshua and support leaders who will advance His kingdom in America.
+              Help us proclaim Yeshua (Jesus) and support leaders who will advance His kingdom in America.
             </p>
             <div className="flex gap-4 justify-center flex-col sm:flex-row">
               <Link

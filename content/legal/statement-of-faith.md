@@ -27,11 +27,11 @@ We believe that **Yeshua (Jesus) is the Jewish Messiah**, the Son of G-d, who:
 
 ## Salvation
 
-We believe that salvation is by grace alone, through faith alone, in Christ alone. It is a gift from G-d, not earned by works, and is available to all who repent of their sins and trust in Yeshua as L-rd and Savior.
+We believe that salvation is by grace alone, through faith alone, in Christ alone. It is a gift from G-d, not earned by works, and is available to all who repent of their sins and trust in Yeshua (Jesus) as L-rd and Savior.
 
 ## The Church
 
-We believe in the universal Church, composed of all born-again believers in Yeshua the Jewish Messiah. The Church is called to proclaim the Good News, make disciples, and demonstrate G-d's love to the world.
+We believe in the universal Church, composed of all born-again believers in Yeshua (Jesus) the Jewish Messiah. The Church is called to proclaim the Good News, make disciples, and demonstrate G-d's love to the world.
 
 ## Israel and the Jewish People
 
@@ -39,12 +39,12 @@ We believe that G-d's covenant with Israel is eternal and irrevocable. We affirm
 - G-d's promises to Abraham, Isaac, and Jacob remain in effect
 - Israel has a divine right to the land promised by G-d
 - The Jewish people remain G-d's chosen people
-- Christians should support and pray for Israel
+- Messianics (Christians) should support and pray for Israel
 - The Church has not replaced Israel in G-d's plan
 
 ## The Second Coming
 
-We believe in the personal, visible, and glorious return of Yeshua the Jewish Messiah to establish His millennial kingdom on earth.
+We believe in the personal, visible, and glorious return of  (Jesus) the Jewish Messiah to establish His millennial kingdom on earth.
 
 ## Biblical Authority in Governance
 

@@ -16,7 +16,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Messiah First for America PAC",
-  description: "Proclaiming the Name of Yeshua the Jewish Messiah in America, educating on Messianic policy, and supporting politicians who promote these values.",
+  description: "Proclaiming the Name of Yeshua (Jesus) the Jewish Messiah in America, educating on Messianic (Christian) policy, and supporting politicians who promote these values.",
   keywords: ["Messiah", "Yeshua", "Jesus", "Christian", "PAC", "Politics", "America", "Conservative", "Biblical"],
 };
 

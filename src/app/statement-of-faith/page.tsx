@@ -38,7 +38,7 @@ export default function StatementOfFaithPage() {
             </p>
           </div>
           <div className="bg-blue-50 rounded-lg p-6">
-            <h3 className="text-xl font-bold text-blue-900 mb-4">Yeshua the Jewish Messiah</h3>
+            <h3 className="text-xl font-bold text-blue-900 mb-4">Yeshua (Jesus) the Jewish Messiah</h3>
             <p className="text-gray-700">
               We boldly proclaim that Yeshua (Jesus) is the Jewish Messiah, the Son of G-d,
               and that His L-rdship extends over every area of life, including government.
