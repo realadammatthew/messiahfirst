@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Script from 'next/script';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -62,24 +63,26 @@ export default function DonatePage() {
               Make a secure online donation through our trusted payment processor.
             </p>
 
-            {/* Placeholder for donation form/link */}
-            <div className="bg-gray-50 border-2 border-dashed border-gray-300 rounded-lg p-8 text-center mb-6">
-              <p className="text-gray-500 mb-4">
-                <strong>DonorBox Integration Placeholder</strong>
-              </p>
-              <p className="text-sm text-gray-400">
-                This is where the DonorBox donation form or link will be embedded.
-                The actual donation processor will be configured after receiving your DonorBox details.
-              </p>
-            </div>
-
-            <div className="space-y-3">
-              <button className="w-full bg-green-600 text-white py-3 px-6 rounded-lg font-semibold hover:bg-green-700 transition-colors">
-                Donate Now
-              </button>
-              <p className="text-xs text-gray-500 text-center">
-                Secure donation processing via DonorBox
-              </p>
+            {/* DonorBox Donation Form */}
+            <div className="mb-6">
+              <Script
+                src="https://donorbox.org/widget.js"
+                strategy="lazyOnload"
+              />
+              <iframe
+                src="https://donorbox.org/embed/messiah-first-for-america-pac?"
+                name="donorbox"
+                height="900"
+                width="100%"
+                style={{
+                  maxWidth: '500px',
+                  minWidth: '250px',
+                  maxHeight: 'none',
+                  border: 'none'
+                }}
+                allow="payment"
+                title="Donation Form"
+              />
             </div>
           </div>
 
