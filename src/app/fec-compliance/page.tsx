@@ -133,7 +133,14 @@ export default function FECCompliancePage() {
                   </a>
                 </li>
                 <li>
-                  <span className="text-gray-500">Our FEC Reports (Available after registration)</span>
+                  <a
+                    href="https://www.fec.gov/data/committee/C00913418/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-blue-600 hover:text-blue-800"
+                  >
+                    Messiah First for America PAC FEC Page
+                  </a>
                 </li>
               </ul>
             </div>
