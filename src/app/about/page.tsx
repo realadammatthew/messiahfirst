@@ -22,51 +22,49 @@ export default function AboutPage() {
 
         {/* Leadership Profile */}
         <div className="bg-white rounded-lg shadow-lg p-8 md:p-12 mb-12">
-          <div className="flex flex-col md:flex-row items-center md:items-start gap-8">
-            {/* Profile Picture */}
-            <div className="flex-shrink-0">
-              <Link href="https://hire.adam.matthewsteinberger.com" target="_blank" rel="noopener noreferrer">
-                <Image
-                  src="/images/profile-picture.jpg"
-                  alt="PAC Leadership"
-                  width={250}
-                  height={250}
-                  className="rounded-lg shadow-md"
-                />
-              </Link>
-              <p className="text-sm text-gray-500 mt-2 text-center">Adam Matthew Steinberger</p>
-            </div>
+          <h2 className="text-3xl font-bold text-blue-900 mb-2">Adam Matthew Steinberger</h2>
+          <p className="text-lg text-blue-600 italic mb-6">Founder, Messiah First for America PAC</p>
 
-            {/* Profile Content */}
-            <div className="flex-1 text-center md:text-left">
-              <h2 className="text-3xl font-bold text-blue-900 mb-4">Our Leadership Team</h2>
-              <div className="text-gray-700 space-y-4">
-                <p>
-                  Messiah First for America PAC is led by committed believers who are passionate about
-                  seeing biblical principles guide American politics and governance.
-                </p>
-                <p>
-                  Our leadership brings together experience in politics, ministry, and business,
-                  united by a shared commitment to proclaiming Yeshua (Jesus) the Jewish Messiah and supporting
-                  candidates who will advance His kingdom values.
-                </p>
-                <p>
-                  We believe that America&apos;s strength comes from its foundation on Judeo-Christian
-                  principles, and we are dedicated to preserving and restoring those foundations
-                  for future generations.
-                </p>
-              </div>
+          {/* Profile Picture - floats left with text wrapping */}
+          <div className="float-left mr-6 mb-4">
+            <Link href="https://hire.adam.matthewsteinberger.com" target="_blank" rel="noopener noreferrer">
+              <Image
+                src="/images/profile-picture.jpg"
+                alt="Adam Matthew Steinberger"
+                width={300}
+                height={300}
+                className="rounded-lg shadow-md"
+              />
+            </Link>
+          </div>
 
-              {/* Contact Info */}
-              <div className="mt-6">
-                <Link
-                  href="/contact"
-                  className="bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
-                >
-                  Contact Leadership
-                </Link>
-              </div>
-            </div>
+          {/* Profile Content - wraps around image */}
+          <div className="text-gray-700 space-y-4 leading-relaxed">
+            <p>
+              Adam Matthew Steinberger founded Messiah First for America PAC to advance biblically rooted public policy with a Messianic Jewish (Christian) voice and an unshakable love for the nation&apos;s future.
+            </p>
+            <p>
+              Raised Reform Jewish in Albany, New York, Adam plunged into substance abuse and atheism through his teens and twenties. Sobriety opened the door; a 2020 encounter with Yeshua (Jesus) the Jewish Messiah changed everything. A Birthright trip to Israel and a season exploring Orthodox Judaism confirmed the Tanakh&apos;s promises are fulfilled in Him, our Prophet and King.
+            </p>
+            <p>
+              In 2023 he relocated to Greenville, South Carolina. A 2024 mission trip to Honduras led him to &quot;count the cost&quot; of full-time service. In 2025 he enrolled at Southeastern Baptist Theological Seminary (Wake Forest, NC) for an MDiv in Missiology, maintaining a 3.7 GPA while working as a Software Engineer. After attending ShalomNY with Chosen People Ministries in July 2025, he returned to Travelers Rest, SC, to complete his degree online.
+            </p>
+            <p>
+              Gifted in prayer, evangelism, apologetics, missions, and street preaching, Adam carries a contagious heart of joy. Recently diagnosed with autism (October 2025), he brings distinctive insight to outreach among Jewish people, the recovery community, LGBT individuals, those exploring Islam, and committed atheists.
+            </p>
+            <p>
+              Through Messiah First for America PAC, Adam channels his redemption story into policy advocacy that honors G-d, defends covenant values, and secures a faithful future for the United States of America.
+            </p>
+          </div>
+
+          {/* Clear float and add contact button */}
+          <div className="clear-both mt-6">
+            <Link
+              href="/contact"
+              className="inline-block bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-700 transition-colors"
+            >
+              Contact Leadership
+            </Link>
           </div>
         </div>
 
