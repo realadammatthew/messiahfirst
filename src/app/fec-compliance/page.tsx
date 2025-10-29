@@ -152,10 +152,6 @@ export default function FECCompliancePage() {
                     Contact Form
                   </Link>
                 </li>
-                <li>
-                  <strong>Legal Counsel:</strong><br />
-                  [To be provided upon retention]
-                </li>
               </ul>
             </div>
           </div>
