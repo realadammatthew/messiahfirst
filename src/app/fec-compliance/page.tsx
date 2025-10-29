@@ -41,7 +41,7 @@ export default function FECCompliancePage() {
             </div>
             <div>
               <p className="font-medium text-yellow-800">Registration Status:</p>
-              <p className="text-yellow-700">In Process</p>
+              <p className="text-yellow-700">Active</p>
             </div>
             <div>
               <p className="font-medium text-yellow-800">Contribution Limits:</p>

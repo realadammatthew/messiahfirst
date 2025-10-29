@@ -17,7 +17,7 @@ excerpt: "Federal Election Commission compliance and legal disclosures."
 
 **Committee Type**: Independent Expenditure-Only Committee (Super PAC)
 
-**Registration Date**: July 30, 2025
+**Registration Date**: July 25, 2025
 
 ## Treasurer Information
 
@@ -96,16 +96,8 @@ Donor information is used for:
 ### Information Protection
 We implement appropriate security measures to protect donor information and comply with all applicable privacy laws.
 
-## Legal Counsel
-
-**Legal Counsel**: [Attorney name and firm to be provided]
-
-**Specialization**: Election Law and FEC Compliance
-
-**Contact**: [Contact information to be provided]
-
 ---
 
 *This page is updated regularly to reflect current FEC regulations and committee status. For the most current information, please refer to our FEC filings at FEC.gov.*
 
-**Last Updated**: September 15, 2025
+**Last Updated**: October 28, 2025
