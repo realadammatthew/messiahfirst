@@ -132,6 +132,23 @@ export default function Footer() {
         </div>
       </div>
       <div className="bg-blue-800 text-center py-4">
+        <a href="https://hire.adam.matthewsteinberger.com" className="underline text-blue-200 hover:text-white">
+          Work
+        </a>
+        <span className="mx-2 text-blue-200">|</span>
+        <a href="https://humbleberger.org" className="underline text-blue-200 hover:text-white">
+          Ministry
+        </a>
+        <span className="mx-2 text-blue-200">|</span>
+        <a href="https://chat.adam.matthewsteinberger.com" className="underline text-blue-200 hover:text-white">
+          Chat
+        </a>
+        <span className="mx-2 text-blue-200">|</span>
+        <a href="https://theautisticapologist.com/" className="underline text-blue-200 hover:text-white">
+          Blog
+        </a>
+      </div>
+      <div className="bg-blue-800 text-center py-4">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-blue-200 text-sm">
           Website by <a href="https://hire.adam.matthewsteinberger.com" className="underline hover:text-white">Adam Matthew Steinberger LLC</a>
         </div>
