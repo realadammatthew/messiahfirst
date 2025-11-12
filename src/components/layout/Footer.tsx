@@ -105,6 +105,45 @@ export default function Footer() {
 
         {/* Bottom Section */}
         <div className="border-t border-blue-800 mt-8 pt-8 text-center">
+          {/* Social Media Links */}
+          <div className="flex justify-center space-x-6 mb-6">
+            <a
+              href="https://x.com/messiahfirstpac"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-100 hover:text-white transition-colors"
+              aria-label="Follow us on X (Twitter)"
+            >
+              <i className="fab fa-x-twitter text-2xl"></i>
+            </a>
+            <a
+              href="https://www.instagram.com/messiahfirstpac/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-100 hover:text-white transition-colors"
+              aria-label="Follow us on Instagram"
+            >
+              <i className="fab fa-instagram text-2xl"></i>
+            </a>
+            <a
+              href="https://www.facebook.com/messiahfirstpac"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-100 hover:text-white transition-colors"
+              aria-label="Follow us on Facebook"
+            >
+              <i className="fab fa-facebook text-2xl"></i>
+            </a>
+            <a
+              href="https://www.youtube.com/@messiahfirstpac"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-100 hover:text-white transition-colors"
+              aria-label="Subscribe on YouTube"
+            >
+              <i className="fab fa-youtube text-2xl"></i>
+            </a>
+          </div>
           <p className="text-blue-100 text-sm">
             © 2025 Messiah First for America PAC. All rights reserved.
           </p>
