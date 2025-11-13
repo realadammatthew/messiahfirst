@@ -3,6 +3,7 @@ title: "FEC Compliance and Legal Information"
 date: "2025-09-15"
 author: "Messiah First for America PAC"
 excerpt: "Federal Election Commission compliance and legal disclosures."
+description: "Federal Election Commission (FEC) compliance information, legal disclosures, transparency data, and donation guidelines for Messiah First for America PAC (FEC ID: C00913418)."
 ---
 
 # FEC Compliance and Legal Information

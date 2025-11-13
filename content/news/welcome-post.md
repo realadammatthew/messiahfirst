@@ -4,6 +4,7 @@ date: "2025-09-15"
 author: "PAC Leadership Team"
 category: "Announcement"
 excerpt: "Introducing our mission to proclaim Yeshua (Jesus) and advance His kingdom through American politics."
+description: "Introducing Messiah First for America PAC - our Super PAC mission to proclaim Yeshua (Jesus) the Jewish Messiah, educate on biblical policy, and support conservative Christian political candidates."
 featured: true
 ---
 

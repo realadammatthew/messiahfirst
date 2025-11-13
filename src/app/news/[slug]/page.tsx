@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: NewsPostProps): Promise<Metad
     const post = getMarkdownContent(`news/${params.slug}.md`);
     return {
       title: `${post.title} - Messiah First for America PAC`,
-      description: post.excerpt || `News update: ${post.title}`,
+      description: post.description || post.excerpt || `News update: ${post.title}`,
     };
   } catch {
     return {

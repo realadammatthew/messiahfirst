@@ -3,10 +3,14 @@ import MarkdownRenderer from '@/components/ui/MarkdownRenderer';
 import Link from 'next/link';
 import { Metadata } from 'next';
 
-export const metadata: Metadata = {
-  title: 'Our Mission - Messiah First for America PAC',
-  description: 'Learn about our mission to proclaim Yeshua (Jesus), educate on Messianic (Christian) policy, and support aligned political leaders.',
-};
+export async function generateMetadata(): Promise<Metadata> {
+  const missionContent = getMarkdownContent('mission/mission-statement.md');
+
+  return {
+    title: `${missionContent.title} - Messiah First for America PAC`,
+    description: missionContent.description || missionContent.excerpt || 'Learn about our mission to proclaim Yeshua (Jesus), educate on Messianic (Christian) policy, and support aligned political leaders.',
+  };
+}
 
 export default function MissionPage() {
   const missionContent = getMarkdownContent('mission/mission-statement.md');

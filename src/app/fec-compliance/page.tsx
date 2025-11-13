@@ -3,10 +3,14 @@ import MarkdownRenderer from '@/components/ui/MarkdownRenderer';
 import Link from 'next/link';
 import { Metadata } from 'next';
 
-export const metadata: Metadata = {
-  title: 'FEC Compliance - Messiah First for America PAC',
-  description: 'Federal Election Commission compliance information, legal disclosures, and transparency data.',
-};
+export async function generateMetadata(): Promise<Metadata> {
+  const complianceContent = getMarkdownContent('legal/fec-compliance.md');
+
+  return {
+    title: `${complianceContent.title} - Messiah First for America PAC`,
+    description: complianceContent.description || complianceContent.excerpt || 'Federal Election Commission compliance information, legal disclosures, and transparency data.',
+  };
+}
 
 export default function FECCompliancePage() {
   const complianceContent = getMarkdownContent('legal/fec-compliance.md');

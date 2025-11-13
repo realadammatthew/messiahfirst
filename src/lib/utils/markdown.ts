@@ -9,6 +9,7 @@ export interface MarkdownPost {
   author?: string;
   category?: string;
   excerpt?: string;
+  description?: string;
   featured?: boolean;
   content: string;
 }
@@ -27,6 +28,7 @@ export function getMarkdownContent(filePath: string): MarkdownPost {
     author: data.author,
     category: data.category,
     excerpt: data.excerpt,
+    description: data.description,
     featured: data.featured || false,
     content,
   };

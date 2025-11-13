@@ -1,5 +1,12 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Home - Messiah First for America PAC',
+  description: 'Proclaiming the Name of Yeshua (Jesus) the Jewish Messiah in America, educating on Messianic (Christian) policy, and supporting politicians who promote these values.',
+  keywords: ['Messiah', 'Yeshua', 'Jesus', 'Christian', 'PAC', 'Politics', 'Faith', 'America', 'Conservative', 'Messianic'],
+};
 
 export default function Home() {
   return (

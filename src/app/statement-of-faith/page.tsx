@@ -3,10 +3,14 @@ import MarkdownRenderer from '@/components/ui/MarkdownRenderer';
 import Link from 'next/link';
 import { Metadata } from 'next';
 
-export const metadata: Metadata = {
-  title: 'Statement of Faith - Messiah First for America PAC',
-  description: 'Our core biblical beliefs and theological foundation that guide our political engagement.',
-};
+export async function generateMetadata(): Promise<Metadata> {
+  const faithContent = getMarkdownContent('legal/statement-of-faith.md');
+
+  return {
+    title: `${faithContent.title} - Messiah First for America PAC`,
+    description: faithContent.description || faithContent.excerpt || 'Our core biblical beliefs and theological foundation that guide our political engagement.',
+  };
+}
 
 export default function StatementOfFaithPage() {
   const faithContent = getMarkdownContent('legal/statement-of-faith.md');

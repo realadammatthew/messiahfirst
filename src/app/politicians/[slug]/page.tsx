@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: PoliticianPostProps): Promise
     const post = getMarkdownContent(`politicians/${params.slug}.md`);
     return {
       title: `${post.title} - Messiah First for America PAC`,
-      description: post.excerpt || `Endorsement information for ${post.title}`,
+      description: post.description || post.excerpt || `Endorsement information for ${post.title}`,
     };
   } catch {
     return {

@@ -3,6 +3,7 @@ title: "Our Mission Statement"
 date: "2025-09-15"
 author: "Messiah First for America PAC"
 excerpt: "Our foundational mission to proclaim Yeshua, educate on Messianic policy, and support aligned leaders."
+description: "Learn about Messiah First for America PAC's mission to proclaim Yeshua (Jesus) the Jewish Messiah, educate on Messianic Christian policy, and support aligned political leaders."
 ---
 
 # Our Mission Statement

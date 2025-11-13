@@ -3,6 +3,7 @@ title: "Statement of Faith"
 date: "2025-09-15"
 author: "Messiah First for America PAC"
 excerpt: "Our core beliefs and theological foundation."
+description: "Our core biblical beliefs, theological foundation, and Messianic Christian values that guide Messiah First for America PAC's political engagement and policy positions."
 ---
 
 # Statement of Faith

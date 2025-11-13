@@ -4,6 +4,7 @@ date: "2025-09-15"
 author: "Messiah First for America PAC"
 category: "Endorsement Policy"
 excerpt: "Our standards for evaluating and endorsing political candidates."
+description: "Messiah First for America PAC's candidate endorsement criteria, evaluation process, and standards for supporting Christian conservative political candidates who advance biblical principles."
 ---
 
 # Candidate Endorsement Criteria

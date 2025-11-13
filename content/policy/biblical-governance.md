@@ -4,6 +4,7 @@ date: "2025-09-15"
 author: "Messiah First for America PAC"
 category: "Policy Position"
 excerpt: "How biblical principles should inform public policy and governance in America."
+description: "Learn how biblical principles should inform public policy and governance in America - covering pro-life, religious liberty, traditional marriage, Israel support, and constitutional government."
 ---
 
 # Biblical Principles for Governance
