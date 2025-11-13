@@ -19,7 +19,8 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: PoliticianPostProps): Promise<Metadata> {
   try {
-    const post = getMarkdownContent(`politicians/${params.slug}.md`);
+    const resolvedParams = await params;
+    const post = getMarkdownContent(`politicians/${resolvedParams.slug}.md`);
     return {
       title: `${post.title} - Messiah First for America PAC`,
       description: post.description || post.excerpt || `Endorsement information for ${post.title}`,
@@ -31,9 +32,10 @@ export async function generateMetadata({ params }: PoliticianPostProps): Promise
   }
 }
 
-export default function PoliticianPost({ params }: PoliticianPostProps) {
+export default async function PoliticianPost({ params }: PoliticianPostProps) {
   try {
-    const post = getMarkdownContent(`politicians/${params.slug}.md`);
+    const resolvedParams = await params;
+    const post = getMarkdownContent(`politicians/${resolvedParams.slug}.md`);
 
     return (
       <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white">

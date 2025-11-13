@@ -19,7 +19,8 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: NewsPostProps): Promise<Metadata> {
   try {
-    const post = getMarkdownContent(`news/${params.slug}.md`);
+    const resolvedParams = await params;
+    const post = getMarkdownContent(`news/${resolvedParams.slug}.md`);
     return {
       title: `${post.title} - Messiah First for America PAC`,
       description: post.description || post.excerpt || `News update: ${post.title}`,
@@ -31,9 +32,10 @@ export async function generateMetadata({ params }: NewsPostProps): Promise<Metad
   }
 }
 
-export default function NewsPost({ params }: NewsPostProps) {
+export default async function NewsPost({ params }: NewsPostProps) {
   try {
-    const post = getMarkdownContent(`news/${params.slug}.md`);
+    const resolvedParams = await params;
+    const post = getMarkdownContent(`news/${resolvedParams.slug}.md`);
 
     return (
       <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white">

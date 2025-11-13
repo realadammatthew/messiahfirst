@@ -19,7 +19,8 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: PolicyPostProps): Promise<Metadata> {
   try {
-    const post = getMarkdownContent(`policy/${params.slug}.md`);
+    const resolvedParams = await params;
+    const post = getMarkdownContent(`policy/${resolvedParams.slug}.md`);
     return {
       title: `${post.title} - Messiah First for America PAC`,
       description: post.description || post.excerpt || `Policy position on ${post.title}`,
@@ -31,9 +32,10 @@ export async function generateMetadata({ params }: PolicyPostProps): Promise<Met
   }
 }
 
-export default function PolicyPost({ params }: PolicyPostProps) {
+export default async function PolicyPost({ params }: PolicyPostProps) {
   try {
-    const post = getMarkdownContent(`policy/${params.slug}.md`);
+    const resolvedParams = await params;
+    const post = getMarkdownContent(`policy/${resolvedParams.slug}.md`);
 
     return (
       <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white">
